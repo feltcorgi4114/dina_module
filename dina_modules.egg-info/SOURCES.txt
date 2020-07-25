@@ -1,0 +1,7 @@
+README.md
+setup.py
+dina_modules.egg-info/PKG-INFO
+dina_modules.egg-info/SOURCES.txt
+dina_modules.egg-info/dependency_links.txt
+dina_modules.egg-info/top_level.txt
+dina_package/__init__.py
